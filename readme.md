@@ -1,7 +1,5 @@
 # ReadMe File
-
 This is a read me file
 
 ## Sub Heading
-
-This is a subheading for main heading
+Petter was here and he changed the sub heading
