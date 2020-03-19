@@ -4,6 +4,6 @@ This is a read me file
 
 ## Sub Heading
 
-This is a new code..
+Lets solve the conflicts problem
 
 //COMMMIT
